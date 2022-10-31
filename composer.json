@@ -1,0 +1,15 @@
+{
+    "name": "soura/008-php-oop-codeholic",
+    "autoload": {
+        "psr-4": {
+            "Autoloading\\": "012-autoloading-with-composer/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sourav Malo",
+            "email": "sourav.cse5.bu@gmail.com"
+        }
+    ],
+    "require": {}
+}
